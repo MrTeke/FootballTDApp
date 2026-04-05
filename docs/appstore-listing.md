@@ -1,10 +1,10 @@
 # App Store Listing Content
 
 ## App Name (30 chars max)
-Football Defense
+Clean Sheet
 
 ## Subtitle (30 chars max)
-Tower Defense Strategy Game
+Tower Defense Football Game
 
 ## Promotional Text (100 chars max — changeable anytime without new review)
 20 levels of football tower defense. Build your squad. Stop every shot.

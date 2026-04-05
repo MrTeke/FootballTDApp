@@ -1,6 +1,6 @@
 {
   "appId": "com.footballdefense.game",
-  "appName": "Futbol Savunma",
+  "appName": "Clean Sheet",
   "webDir": "dist",
   "bundledWebRuntime": false,
   "server": {
