@@ -35,3 +35,6 @@ Can you keep a clean sheet through the World Cup Final?
 
 ## Keywords (100 chars max, comma separated)
 tower defense,football,soccer,strategy,defense game,td,sport,goalkeeper,arcade,casual
+
+## Privacy Policy URL
+https://mrteke.github.io/FootballTDApp/privacy-policy.html

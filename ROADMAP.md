@@ -96,9 +96,9 @@ Son güncelleme: 2026-04-05
 ### Öncelik 5 — App Store
 - [ ] `docs/08-APPSTORE.md` takip et
 - [ ] App ikonları (1024×1024 iOS)
-- [ ] Store açıklamaları (EN)
-- [ ] Screenshots (6.5" iPhone, tablet)
-- [ ] Privacy policy URL
+- [x] Store açıklamaları (EN) — docs/appstore-listing.md
+- [ ] Screenshots (6.5" iPhone, Mac gerekli)
+- [x] Privacy policy URL — https://mrteke.github.io/FootballTDApp/privacy-policy.html
 
 ---
 
