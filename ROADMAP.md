@@ -1,6 +1,6 @@
 # Football Defense — Development Roadmap
 
-Son güncelleme: 2026-04-05
+Son güncelleme: 2026-04-05 (Seans 3)
 
 ---
 
@@ -95,10 +95,14 @@ Son güncelleme: 2026-04-05
 
 ### Öncelik 5 — App Store
 - [ ] `docs/08-APPSTORE.md` takip et
-- [ ] App ikonları (1024×1024 iOS)
+- [ ] App ikonu — 1024×1024 PNG, şeffaflık yok, köşe yuvarlama yok (iOS halleder)
 - [x] Store açıklamaları (EN) — docs/appstore-listing.md
 - [ ] Screenshots (6.5" iPhone, Mac gerekli)
 - [x] Privacy policy URL — https://mrteke.github.io/FootballTDApp/privacy-policy.html
+
+### Uygulama Adı Değişikliği
+- "Football Defense" → **"Clean Sheet"** olarak güncellendi (2026-04-05)
+- MenuScene.js başlık, capacitor.config.json, appstore-listing.md güncellendi
 
 ---
 
