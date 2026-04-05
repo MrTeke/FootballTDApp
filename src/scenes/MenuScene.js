@@ -59,21 +59,19 @@ export default class MenuScene extends Phaser.Scene {
 
   addTitle(W) {
     // Shadow
-    this.add.text(W / 2 + 2, 52, 'FOOTBALL\nDEFENSE', {
+    this.add.text(W / 2 + 2, 52, 'CLEAN SHEET', {
       fontSize: '22px',
       fontFamily: '"Press Start 2P"',
       fill: '#000000',
       align: 'center',
-      lineSpacing: 8,
     }).setOrigin(0.5)
 
     // Main title
-    this.add.text(W / 2, 50, 'FOOTBALL\nDEFENSE', {
+    this.add.text(W / 2, 50, 'CLEAN SHEET', {
       fontSize: '22px',
       fontFamily: '"Press Start 2P"',
       fill: '#ffd700',
       align: 'center',
-      lineSpacing: 8,
     }).setOrigin(0.5)
 
     // Subtitle
