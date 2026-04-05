@@ -1,0 +1,40 @@
+export const TOWER_DATA = {
+  bek: {
+    name: 'Defender',
+    label: 'D',
+    cost: 50,
+    color: 0x4488ff,
+    range: 90,
+    damage: 20,
+    fireRate: 1000,
+    projectileSpeed: 320,
+    description: 'Wide area, fast fire.',
+    pixelSize: 14,
+  },
+
+  stoper: {
+    name: 'Stopper',
+    label: 'S',
+    cost: 100,
+    color: 0xff8800,
+    range: 75,
+    damage: 35,
+    fireRate: 1600,
+    projectileSpeed: 220,
+    description: 'High damage, mid range.',
+    pixelSize: 18,
+  },
+
+  kaleci: {
+    name: 'Goalkeeper',
+    label: 'G',
+    cost: 200,
+    color: 0xffdd00,
+    range: 55,
+    damage: 90,
+    fireRate: 2200,
+    projectileSpeed: 160,
+    description: 'Very high damage, short range.',
+    pixelSize: 22,
+  },
+}

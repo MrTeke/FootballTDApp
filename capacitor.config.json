@@ -1,0 +1,14 @@
+{
+  "appId": "com.footballdefense.game",
+  "appName": "Futbol Savunma",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https"
+  },
+  "plugins": {
+    "AdMob": {
+      "appIdIos": "ca-app-pub-5486950376190567~2820515358"
+    }
+  }
+}
